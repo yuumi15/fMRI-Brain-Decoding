@@ -1,4 +1,7 @@
 # Brain Decoding Using FMRI
+<img align="right" width="100" height="100" src="https://github.com/user-attachments/assets/53aa999c-dd9c-416f-a23a-c68c3142dfa5" alt="image"> 
+
+_This project represents the culmination of my learning during the Arabs in Neuroscience (AiN) 'Computational Neuroscience Summer School' (August 2024)._  
 
 This project investigates how the brain processes sensory information by mapping the relationship between visual stimuli and neural responses. Using the fMRI dataset from Horikawa et al., we decode brain activity to predict the visual stimuli a person is perceiving. This figure explains the entire process: Subject views an Image > fMRI activity recorded > Brain activity data is processed by a decoding algorithm > The algorithm identifies the most likely category or pattern > We compare whether the predicted category matches the subject's perception.
 
